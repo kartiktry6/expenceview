@@ -1,0 +1,6 @@
+{
+  "name": "SpendWise - Monthly Expense Tracker",
+  "description": "A polished personal finance dashboard to track monthly income, expenses, category budgets, recurring payments, and smart spending insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
